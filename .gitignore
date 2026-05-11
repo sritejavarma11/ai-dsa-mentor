@@ -1,0 +1,13 @@
+# Ignore node modules anywhere in the project
+**/node_modules/
+
+# Ignore environment variables (API keys) anywhere
+**/.env
+
+# Ignore compiled Java files
+**/target/
+**/*.class
+
+# Ignore IDE files
+.vscode/
+.idea/
